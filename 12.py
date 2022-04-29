@@ -11,7 +11,7 @@ if __name__ == '__main__':
         else:
             count2+=1
     print('count1=',count1)
-    print('count2',count2)
+    print('count2=',count2)
     if count1==count2:
         print('0和1出现次数相同')
     else:
