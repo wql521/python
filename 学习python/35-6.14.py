@@ -8,7 +8,7 @@ if __name__ == '__main__':
             sum1 = sum(lst)
             number=number+[sum1]
         if (number[0]==number[1]) and (number[0]==number[2]) and (number[0]==number[3]) and (number[0]==number[4]):
-            return x
+            return x,number
 
 
 
