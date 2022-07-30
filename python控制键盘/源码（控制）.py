@@ -6,7 +6,7 @@ if __name__ == '__main__':
     #移动鼠标到指定位置
     pyautogui.moveTo(23,478, duration=2)
     #鼠标点击
-    pyautogui.click()
+    pyautogui.click()你
 
     #键盘输入
     pyautogui.typewrite('ni')
